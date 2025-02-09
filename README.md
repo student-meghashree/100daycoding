@@ -4,5 +4,5 @@ Welcome to my 100 Days of Coding Challenge! This repository documents my journey
 Problem Statement: Given an array A of size N, reverse the array in-place without using extra space.
 
 <strong>📌 Day 2: Basic Data Type</strong><br><br>
-Problem Statement:each element of a list or array should be printed on a new line in the exact order they were received as input.</strong><br><br>
+Problem Statement: each element of a list or array should be printed on a new line in the exact order they were received as input.</strong><br><br>
 
