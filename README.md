@@ -6,3 +6,10 @@ Problem Statement: Given an array A of size N, reverse the array in-place withou
 <strong>📌 Day 2: Basic Data Type</strong><br><br>
 Problem Statement: each element of a list or array should be printed on a new line in the exact order they were received as input.</strong><br><br>
 
+<strong>📌 Day 3: 2D Arrays-DS </strong><br><br>
+Problem Statement: Calculate the hourglass sum for every hourglass in arr, then print the hourglass sum.
+
+
+
+
+
