@@ -9,6 +9,14 @@ Problem Statement: each element of a list or array should be printed on a new li
 <strong>📌 Day 3: 2D Arrays-DS </strong><br><br>
 Problem Statement: Calculate the hourglass sum for every hourglass in arr, then print the hourglass sum.
 
+<strong>📌 Day 4: Dynamic arrays </strong><br><br>
+Problem Statement:Declare a 2-dimensional array, arr, with n empty arrays, all zero-indexed.
+Declare an integer,last Answer, and initialize it to 0.
+
+
+
+
+
 
 
 
