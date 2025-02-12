@@ -13,6 +13,9 @@ Problem Statement: Calculate the hourglass sum for every hourglass in arr, then 
 Problem Statement:Declare a 2-dimensional array, arr, with n empty arrays, all zero-indexed.
 Declare an integer,last Answer, and initialize it to 0.
 
+<strong>📌 Day 5: Left rotation </strong><br><br>
+Problem Statement:A Left rotation operation on a circular array shifts each of the array's elements 1 unit to the left. The elements that fall off the left end reappear at the right end. Given an integer d , rotate the array that many steps to the left and return the result
+
 
 
 
