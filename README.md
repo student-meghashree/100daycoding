@@ -20,6 +20,19 @@ Problem Statement:A Left rotation operation on a circular array shifts each of t
 Problem Statement:Calculate the sum of similarities of a string S with each of it's suffixes.
 
 
+<strong>📌 Day 7: Digit Frequency </strong><br><br>
+Problem Statement:Print ten space-separated integers in a single line denoting the frequency of each digit from 0 to 9 .
+
+
+<strong>📌 Day 8: Calculate the Nth term </strong><br><br>
+Problem Statement:There is a series,S , where the next term is the sum of pervious three terms. Given the first three terms of the series,a,b, and  respectively, you have to output the nth term of the series using recursion.
+
+
+<strong>📌 Day 9: Power Calculation </strong><br><br>
+Problem Statement:Print the last two digits of S for each test case in separate lines
+
+
+
 
 
 
