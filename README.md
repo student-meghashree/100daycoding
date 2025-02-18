@@ -31,6 +31,8 @@ Problem Statement:There is a series,S , where the next term is the sum of pervio
 <strong>📌 Day 9: Power Calculation </strong><br><br>
 Problem Statement:Print the last two digits of S for each test case in separate lines
 
+<strong>📌 Day 10: Permuting Two Arrays </strong><br><br>
+Problem Statement:There will be  queries consisting of A,B,and K . For each query, return YES if some permutation A',B'  satisfying the relation exists. Otherwise, return NO.
 
 
 
