@@ -34,6 +34,11 @@ Problem Statement:Print the last two digits of S for each test case in separate 
 <strong>📌 Day 10: Permuting Two Arrays </strong><br><br>
 Problem Statement:There will be  queries consisting of A,B,and K . For each query, return YES if some permutation A',B'  satisfying the relation exists. Otherwise, return NO.
 
+<strong>📌 Day 10: Array Reversal</strong><br><br>
+Problem Statement: reversing the given array 
+
+
+
 
 
 
