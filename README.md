@@ -37,8 +37,10 @@ Problem Statement:There will be  queries consisting of A,B,and K . For each quer
 <strong>📌 Day 11: Array Reversal</strong><br><br>
 Problem Statement: reversing the given array
 
-<strong>📌 Day 12: </strong><br><br>
-Problem Statement: The array name,marks , works as a pointer which stores the base address of that array. In other words,marks contains the address where marks is stored in the memory.
+<strong>📌 Day 12:Student marks</strong><br><br> Statement: The array name,marks , works as a pointer which stores the base address of that array. In other words,marks contains the address where marks is stored in the memory.
+
+strong>📌 Day 13:Bitwise operators </strong><br><br>
+Problem Statement:In this challenge, you will use logical bitwise operators. All data is stored in its binary representation. The logical operators, and C language, use 1 to represent true and 0 to represent false. The logical operators compare bits in two numbers and return true or false, 0 or 1 , for each bit compared.
 
 
 
