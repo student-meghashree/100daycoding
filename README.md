@@ -45,6 +45,9 @@ Problem Statement:In this challenge, you will use logical bitwise operators. All
 <strong>📌 Day 14:Array Manupilation </strong><br><br>
 Problem Statement: Starting with a 1-indexed array of zeros and a list of operations, for each operation add a value to each array element between two given indices, inclusive. Once all operations have been performed, return the maximum value in the array.
 
+<strong>📌 Day 16:Time Conversion </strong><br><br>
+Problem Statement:Given a time in 12-hour AM/PM format, convert it to military (24-hour) time.
+
 
 
 
