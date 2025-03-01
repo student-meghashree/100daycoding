@@ -51,6 +51,13 @@ Problem Statement:Given five positive integers, find the minimum and maximum val
 <strong>📌 Day 16:Time Conversion </strong><br><br>
 Problem Statement:Given a time in 12-hour AM/PM format, convert it to military (24-hour) time.
 
+<strong>📌 Day 17:Grading Students </strong><br><br>
+Problem Statement: Every student receives a grade in the inclusive range from 0 to 100.
+
+
+<strong>📌 Day 18:Diagnol Difference </strong><br><br>
+Problem Statement: Given a square matrix, calculate the absolute difference between the sums of its diagonals.
+
 
 
 
