@@ -1,0 +1,33 @@
+#include <iostream>
+using namespace std;
+
+int64_t sum_of_digits(const string &s) {
+    int64_t sum = 0;
+    for (char c : s) {
+        sum += (c - '0');
+    }
+    return sum;
+}
+
+int64_t super_digit(int64_t num) {
+    if (num < 10)  
+        return num;
+
+    int64_t sum = 0;
+    while (num) {
+        sum += num % 10;
+        num /= 10;
+    }
+    return super_digit(sum);
+}
+
+int main() {
+    string s;
+    int k;
+    cin >> s >> k;
+
+    int64_t initial_sum = sum_of_digits(s) * k;
+    cout << super_digit(initial_sum) << endl;
+
+    return 0;
+}
