@@ -58,6 +58,15 @@ Problem Statement: Every student receives a grade in the inclusive range from 0 
 <strong>📌 Day 18:Diagnol Difference </strong><br><br>
 Problem Statement: Given a square matrix, calculate the absolute difference between the sums of its diagonals.
 
+<strong>📌 Day 19:Plus Minus </strong><br><br>
+Problem Statement:Given an array of integers, calculate the ratios of its elements that are positive ,negative and zero. Print the decimal value of each fraction on a new line with 6 places after the decimal.
+
+<strong>📌 Day 20:Recursive Digit Sum </strong><br><br>
+Problem Staement:Given an integer, we need to find the super digit of the integer.
+
+<strong>📌 Day 21:Solve Me First</strong><br><br>
+Problem Staement:Complete the function solve me first to compute the sum of two integers.
+
 
 
 
